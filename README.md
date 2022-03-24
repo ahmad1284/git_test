@@ -16,5 +16,11 @@ journey
 		Give exam: 1: Me, Friend
 	section Result Declared
 		I passed the exam with destinction!: 5: Me
-		Friend barely gets passing marks: 2: Friend
+		Friend barely gets passing marks: 2: Friend<>
+```
+
+```bash
+$ git add .
+$ git commit -m ""
+$ git push
 ```
